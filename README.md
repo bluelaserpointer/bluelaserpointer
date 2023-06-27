@@ -6,7 +6,7 @@
 
 ![AllScreenShots](https://github.com/bluelaserpointer/bluelaserpointer/assets/39490836/0f0106be-7153-4098-b2c7-03fa3256a4ec)
 
-過去作まとめ動画：https://github.com/bluelaserpointer/bluelaserpointer/wiki
+過去作まとめ：https://github.com/bluelaserpointer/bluelaserpointer/wiki
 
 - 📫 上海交通大学、電気情報及び電気工程学科のコンピュータグラフィック実験室（DALAB）修士課程
 - 🔭 アクティビティ：(6/26)BitSummit日中共同ゲーム開発に参加しています:
