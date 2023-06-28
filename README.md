@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluelaserpointer&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 部活及びサークル活動を通じて、中学から大学生までJavaやUnityでゲーム開発をやっています。
-シューティングが好みのジャンルですが、カードゲーム、謎解き、プラットフォームアクションにも手を出しています。
+シューティングが好みのジャンルですが、カードゲーム、謎解き、プラットフォームアクションにも手を出しており、常にコンフェスで新しいメンバーと新しいジャンルのゲーム作成に挑戦しています。
 大学以降中国に留学し、その間の作品は中国語の内容となっています。
 
 ![AllScreenShots](https://github.com/bluelaserpointer/bluelaserpointer/assets/39490836/0f0106be-7153-4098-b2c7-03fa3256a4ec)
