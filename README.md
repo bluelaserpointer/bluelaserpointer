@@ -6,7 +6,7 @@
 
 ![AllScreenShots](https://github.com/bluelaserpointer/bluelaserpointer/assets/39490836/0f0106be-7153-4098-b2c7-03fa3256a4ec)
 
-✨過去作品の詳細と動画をここでまとめています：https://github.com/bluelaserpointer/bluelaserpointer/wiki
+✨過去作品の主な技術点をここでまとめています：https://github.com/bluelaserpointer/bluelaserpointer/wiki
 
 ---
 
